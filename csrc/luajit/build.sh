@@ -16,6 +16,6 @@ cp -f jit/vmdef.lua "$bindir/lua/jit/vmdef.lua"
 make clean
 "$MAKE" BUILDMODE="static"
 
-cp -f libluajit.a "$bindir/static/$A"
+cp -f libluajit.a "$bindir/$A"
 
 make clean
