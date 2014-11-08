@@ -1,6 +1,6 @@
-luajit 2.1-nov8 from http://luajit.org/download.html (MIT license)
+luajit 2.0.3-nov8 from http://luajit.org/download.html (MIT license)
 
-This version was compiled from the v2.1 branch on November 8, 2014.
+This version was compiled from the v2.0.3 branch on November 8, 2014.
 
 Added flags: -msse -msse2 -static-libgcc
 
